@@ -26,3 +26,6 @@
 基础环境：JDK 1.8
 大数据组件：Hadoop 3.4.2、Spark 3.x
 编程语言：Scala、Python 3
+
+## 六、文件地址
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
