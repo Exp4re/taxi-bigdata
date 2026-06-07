@@ -28,4 +28,4 @@
 编程语言：Scala、Python 3
 
 ## 六、文件地址
-https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page（2024年1月份数据）
